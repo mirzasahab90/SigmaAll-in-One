@@ -1,0 +1,26 @@
+.heading{
+    background-color: purple;
+}
+
+.para{
+    background-color: blueviolet;
+}
+
+.common{
+    color: rgb(255, 255, 255);
+}
+
+#head1{
+   border:2px solid rgb(94, 42, 42);
+   width: 300px;
+   height: 50px;
+   box-sizing: border-box;
+   border-radius: 4px; 
+}
+.media > video{
+    width: 200px;
+    height: 200px;
+}
+.form{
+    display:flexbox;
+}
