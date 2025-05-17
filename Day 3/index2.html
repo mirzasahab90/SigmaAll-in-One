@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hover property</title>
+    <style>
+        body{
+            background-color: cadetblue;
+        }
+        body>h1{
+            color: red;
+        }
+        h1:hover{
+            color: purple;
+        }
+        body>button {
+            width: 80px;
+            height: 40px;
+            background-color: green;
+        }
+        body>button:hover{
+            background-color: lightyellow;
+            cursor: pointer;
+        }
+        body>button>a{
+            text-decoration: none;
+            color: bisque;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>I am a good boy</h1>
+    <h1>I am a good boy</h1>
+    <button>
+    <a href="http://www.google.com" target="_blank">Google</a>
+</button>
+</body>
+</html>
