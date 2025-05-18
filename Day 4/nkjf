@@ -1,0 +1,20 @@
+<head>
+    <style>
+        img {
+            position: static;
+        }
+    </style>
+</head>
+<body>
+    <p id="p1">Lorem ipsum dolor sit amet.</p>
+    <p id="p2">Lorem ipsum dolor sit amet.</p>
+    <img src="./logo.png" alt="logo">
+    <p id="p3">Lorem ipsum dolor sit amet.</p>
+    <p id="p4">Lorem ipsum dolor sit amet.</p>
+</body>
+</html>
+
+
+core i5 generation 5th 
+ssd 128/256 GB 
+8 Gb RAM
