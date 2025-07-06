@@ -1,0 +1,15 @@
+1- you have to take two arrays having different values (first you have to check the duplicate values in arrays)
+
+example :
+ a = [1,2,3,4,5,6]
+ b = [2,7,8,3,2,6]
+
+ if any number found duplicate then skip that value and add all other values.
+
+
+ 2- Your 2nd task task is to clone spotify (www.spotify.com)
+        design only UI (User Interface) 
+        DeadLine (20th July)
+
+
+
