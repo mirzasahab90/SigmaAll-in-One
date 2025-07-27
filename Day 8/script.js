@@ -3,9 +3,9 @@
 
 
 
-// let obj = {name:"Rayyan", age : "18", class: "1st Year" }
+// let obj = { name: "Rayyan", age: "18", class: "1st Year" }
 
-// console.log(obj.class)
+// console.log(obj.name)
 
 
 
@@ -51,3 +51,39 @@
 //   default:
 //     console.log("x is something else");
 // }
+
+
+// let a = 60;
+// let b = 70;
+// // let c = 60;
+// // console.log(a)
+
+// if (a >= 80 ){
+//     console.log("You are a Excellent Student")
+// }
+// else if(b >= 70){
+//     console.log("You are a Good Student")
+// }
+// else 
+// {
+//     console.log("You are considered as Fail")
+// }
+
+// alert("Welcome");
+
+// let a = parseInt(prompt("Enter your marks == "));
+// // let b = parseInt(prompt("Enter your marks in subject B:"));
+
+// if (a >= 80) {
+//     console.log("You are an Excellent Student");
+// }
+// else if (a <= 80 && a >=40) {
+//     console.log("You are a Good Student");
+// }
+// else {
+//     console.log("You are considered as Fail");
+// }
+
+
+let newdiv = document.getElementById("box1");
+newdiv.innerHTML = "I am new box";
