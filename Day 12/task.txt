@@ -1,0 +1,14 @@
+1. Write a javaSript to check the words that is Palindrome or not 
+
+example;
+
+(madam,
+racecar,
+level,
+radar,
+deified,
+civic,
+refer,
+noon,
+rotor)
+
