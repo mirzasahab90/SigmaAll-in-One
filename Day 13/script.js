@@ -29,3 +29,23 @@ class Person {
 
 let person1 = new Person("Uzair", 17);
 console.log(person1.greet())
+
+
+// ===============================================
+
+
+class Person {
+    method1() {
+        this.name = "Zeeshan";
+        this.age = "18";
+    }
+
+    greet() {
+        return `Hello, my name is ${this.name} and I am ${this.age} years old.`;
+    }
+}
+let person2 = new Person
+
+person2.method1();
+
+console.log(person2.greet())
