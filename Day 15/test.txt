@@ -1,0 +1,29 @@
+1. Write a program to check if a number is even or odd.
+
+2. Print the multiplication table of a given number.
+
+3. Find the largest of three numbers.
+
+4. Reverse a string entered by the user.
+
+5. Count the number of vowels in a string.
+
+6. Write a program to find the factorial of a number.
+
+7. Check if a given number is prime.
+
+8. Sum all numbers from 1 to 100.
+
+9. te a program to generate the Fibonacci sequence up to n terms.
+
+10. Find the largest element in an array.
+
+11. Sort an array in ascending order.
+
+12. Check if a string is a palindrome.
+
+13. Write a program to remove duplicates from an array.
+
+14. Calculate the area of a circle when the radius is given.
+
+15. Swap two numbers without using a third variable.
