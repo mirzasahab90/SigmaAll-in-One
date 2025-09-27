@@ -14,6 +14,7 @@ import {
   Link
 } from "react-router-dom";
 
+
 function App() {
   const [mode, setmode] = useState('light')
   const [alert, setalert] = useState(null)
@@ -45,6 +46,7 @@ function App() {
         <Navbar title={'TextUtils'} aboutText={'About Us'} mode={mode} toggleMode={toggleMode} />
         <Alert alert={alert} />
         <div className='container my-3'>
+      
 
           <Routes>
             <Route path="/about" element={<About />} />

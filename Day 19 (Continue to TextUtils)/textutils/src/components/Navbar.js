@@ -6,8 +6,8 @@ export default function Navbar(props) {
   return (
     <nav className={`navbar navbar-expand-lg bg-body-tertiary bg-${props.mode}`}
       data-bs-theme={props.mode}>
-      <div className="container-fluid" >
-        <Link className="navbar-brand" to="/title" >{props.title}</Link>
+      <div className="container-fluid">
+        <Link className="navbar-brand" to="/title">{props.title}</Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
           <span className="navbar-toggler-icon"></span>
         </button>
